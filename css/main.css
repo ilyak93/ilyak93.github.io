@@ -54,7 +54,7 @@ body {
   font-family: 'PT Sans', Helvetica, sans-serif;
   color: #666;
   margin: 0;
-  
+  height: 100%;
   font-size: 100%;
   line-height: 1.5em
 }
